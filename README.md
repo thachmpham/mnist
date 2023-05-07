@@ -1,4 +1,4 @@
-# BÁO CÁO ĐỒ ÁN HỌC SÂU - NHẬN DẠNG CHỮ VIẾT TAY
+# ĐỒ ÁN HỌC SÂU - NHẬN DẠNG CHỮ VIẾT TAY
 
 ## Thành viên thực hiện
 Phạm Minh Thạch - 22C15018
