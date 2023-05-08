@@ -75,12 +75,7 @@ model.add(Dense(10, activation='softmax', name='preds'))
 Độ lỗi và độ chính xác của model trên tập train theo từng epoch được thể hiện như biểu đồ ở hình 7 và hình 8. Độ chính xác của model 1 khi thực hiện đánh giá trên tập test là: 0.9919.   
 
 ## TỔNG KẾT
-Bảng bên dưới cho sự khác biệt về số lượng tham số, thời gian thực hiện trên tập test và độ chính xác của 3 mô hình.
-	Số lượng tham số	Thời gian đánh giá	Độ chính xác
-Model 1	407,050	2s	0.9777
-Model 2	93,322	2.4s	0.9919
-Model 3	1,199,882	2.3s	0.9893
-
+Bảng bên dưới cho sự khác biệt về số lượng tham số, thời gian thực hiện trên tập test và độ chính xác của 3 mô hình.  
 |       |Số lượng tham số|Thời gian đánh giá|Độ chính xác|
 |-------|----------------|------------------|------------|
 |Model 1|407,050|2s|0.9777|
